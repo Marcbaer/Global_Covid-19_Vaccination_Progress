@@ -30,11 +30,11 @@ The notebook is structured as followed:
 * seaborn 0.11.1
 * sklearn 0.23.1
 
-##How to run the analysis
+## How to run the analysis
 
 The notebook [EDA_Covid_Vaccination.ipynb](EDA_Covid_Vaccination.ipynb) contains the ETL and Analysis process.
 
-##Results
+## Results
 
 **Association between GDP per Capita and percent of vaccinated citizens**
 <img src="GDP_vs_PercVacc.png">
