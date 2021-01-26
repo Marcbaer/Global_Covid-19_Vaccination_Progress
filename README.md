@@ -3,7 +3,7 @@
 This Project analyzes the progress of covid vaccination in different countries by investigation the [COVID-19 World Vaccination Progress Dataset](https://www.kaggle.com/gpreda/covid-world-vaccination-progress) from [Our World Data](https://ourworldindata.org/).
 The data is enriched with [GDP per Capita Information](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD) provided by the world bank and [country population information](https://population.un.org/wpp/Download/Standard/CSV/) provided by the United Nations.
 The enriched data allows insights into the demographic and economic situations of the analysed countries and their progress on vaccinating their citizens.
-The data is being transformed to optimize the analytical insights.
+The data is being transformed to optimize the analytical insights. The objective is to deliver insights into demographic and economic correlations of the countries in the vaccination process.
 
 The [notebook](EDA_Covid_Vaccination.ipynb) that can be used to run the analysis is structured as followed:
 * **Business Understanding**
