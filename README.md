@@ -20,3 +20,33 @@ The notebook is structured as followed:
     * Association between population size and percent of vaccinated citizens
     * Regression Coefficients for population size, GDP per Capita and population density
     * Vaccines Analysis: Are there vaccines mainly accessible for countries with a high GDP per Capita?
+	
+## Environment
+
+* python 3.6
+* pandas 1.0.5
+* numpy 1.18.5
+* matplotlib 3.2.2
+* seaborn 0.11.1
+* sklearn 0.23.1
+
+##How to run the analysis
+
+The notebook [EDA_Covid_Vaccination.ipynb](EDA_Covid_Vaccination.ipynb) contains the ETL and Analysis process.
+
+##Results
+
+**Association between GDP per Capita and percent of vaccinated citizens**
+<img src="GDP_vs_PercVacc.png">
+
+**Association between population size and percent of vaccinated citizens**
+<img src="PopSize_vs_PercVacc.png">
+
+**Regression Coefficients for population size, GDP per Capita and population density**
+Running a linear regression for total percentage of vaccinated citizens resulted in the following coefficients:
+* **Population Size: (Negative)** -1.63475623e-06
+* **GDP per Capita: (Positive)** 2.32138617e-05
+* **Population Density: (Positive)** 2.81426369e-04
+
+**Vaccines Analysis: Are there vaccines mainly accessible for countries with a high GDP per Capita?**
+<img src="Vacc_plot.png">
