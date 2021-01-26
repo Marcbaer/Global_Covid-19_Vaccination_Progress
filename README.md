@@ -51,3 +51,9 @@ Running a linear regression for total percentage of vaccinated citizens resulted
 
 **Vaccines Analysis: Are there vaccines mainly accessible for countries with a high GDP per Capita?**
 <img src="Vacc_plot.png">
+
+
+## Evaluation
+
+Countries with a high GDP per Capita seem to be able to vaccinate their citizens faster than other countries. However, given the regression coefficent the population density plays an even more important role. It seems that countries with a high population density give strong effort in vaccinating their citizens as fast as possible. For countries with a total population above 100 Million, the logistics and organisational hurdles seem to slow down the process of vaccinating the citizens agains Covid-19.
+Additional insights was provided by analysing the different vaccines. While Moderna is mainly used by North American and Western European countries, Sinovac and Sinopharm is popular in Asia.
