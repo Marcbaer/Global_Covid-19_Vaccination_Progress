@@ -43,6 +43,7 @@ The notebook [EDA_Covid_Vaccination.ipynb](EDA_Covid_Vaccination.ipynb) contains
 <img src="PopSize_vs_PercVacc.png">
 
 **Regression Coefficients for population size, GDP per Capita and population density**
+
 Running a linear regression for total percentage of vaccinated citizens resulted in the following coefficients:
 * **Population Size: (Negative)** -1.63475623e-06
 * **GDP per Capita: (Positive)** 2.32138617e-05
